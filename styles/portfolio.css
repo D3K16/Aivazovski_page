@@ -25,10 +25,8 @@
 @media (max-width: 480px) {
     .portfolio-picture {
     margin: 50px 0 30px;
-    
     }   
     .portfolio-description {
     font-size: 14px;
- 
     }
 }
